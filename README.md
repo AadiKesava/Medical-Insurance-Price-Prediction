@@ -1,5 +1,7 @@
 # Medical-Insurance-Price-Prediction
 
+Building a linear regression model to predict Medical Insurance price based on person details like age, sex, number of children, smoking habit (yes/no), location. We will explore the dataset, perform exploratory data analysis, and implement a machine learning pipeline to train and evaluate the model.
+
 Technologies Used
 ----------------------------------------------------------------------
 Python: programming language for development.
